@@ -26,5 +26,8 @@ body {
 .grid > * {
   width: 20px;
   height: 20px;
-  background-color: rgb(244, 155, 228);
+}
+
+.tetromino {
+  background-color: blue;
 }
